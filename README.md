@@ -1,4 +1,4 @@
-# Jinx-Depression-Diagnosis-App
+# Jinx - Depression Diagnosis App
 ### Self-Diagnosis Tool for Depression
 
 > A Reliable Way to Measure your Depression & Mental State
